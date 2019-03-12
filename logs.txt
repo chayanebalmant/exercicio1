@@ -1,0 +1,11 @@
+commit a93cf973a79b28318c921f31e258f4df88ec3b27
+Author: RN <rodrigo_teruel@hotmail.com>
+Date:   Tue Mar 12 16:20:52 2019 -0300
+
+    primeira alteracao em status.txt
+
+commit 25e52a58931fab00f163c44ed72e83e5b75f47ce
+Author: RN <rodrigo_teruel@hotmail.com>
+Date:   Tue Mar 12 16:13:37 2019 -0300
+
+    logs.txt
